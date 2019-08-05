@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+.idea/
+webstat/
+
+#dumpes, shell scripts, logs
+/*.sql
+/*.tar
+/*.sh
+/*.log
+/log.txt 
+
+/.git_
+
+#other
+robots.txt
+sitemap*.xml
+/*.txt
